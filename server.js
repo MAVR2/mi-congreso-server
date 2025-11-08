@@ -8,7 +8,15 @@ const app = express()
 const PORT = 3000
 const DATA_FILE = './data/participantes.json'
 
-app.use(cors())
+import cors from 'cors'
+
+
+app.use(cors({
+    origin: ['https://mi-congreso.netlify.app'], 
+    methods: ['GET', 'POST'],
+    allowedHeaders: ['Content-Type']
+}))
+
 app.use(bodyParser.json())
 
 app.get('/api/listado', (req, res) => {
