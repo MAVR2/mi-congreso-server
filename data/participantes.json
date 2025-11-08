@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "nombre": "Alonso",
+        "apellidos": "García",
+        "email": "alonso@example.com",
+        "twitter": "alonso_dev",
+        "ocupacion": "Desarrollador",
+        "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+        "id": "9aa55137-6ba9-435a-8a4f-c6acb08da7b7",
+        "nombre": "Martin Alonso",
+        "apellidos": "Villlaseñor Ramirez",
+        "email": "sleadyramvilla@gmail.com",
+        "twitter": "@AON",
+        "ocupacion": "DEV",
+        "avatar": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTA4L3N0ZWdvc2F1cnVzLnBuZyIsImVkaXRzIjp7IndlYnAiOnsicXVhbGl0eSI6ODV9LCJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsiZml0IjoiY29udGFpbiJ9fX0=",
+        "acepto": true
+    }
+]
